@@ -1,9 +1,19 @@
-# node-express-typescript
-node js boilerplate in express using typescript
+## Node Express Typescript
 
-npm install -D typescript
-npm install -D tslint
+### Development
 
-npm install
+```bash
+npm run dev
+```
 
-npm start
+### Running tests
+
+```bash
+npm test
+```
+
+### Linting
+
+```bash
+npm run lint
+```
